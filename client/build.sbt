@@ -2,7 +2,7 @@ name := "akka-stream-game-client"
 
 version := "1.0"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.3"
 
 val akkaV = "2.4.10"
 libraryDependencies ++= Seq(
